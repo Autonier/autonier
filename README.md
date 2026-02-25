@@ -1,5 +1,3 @@
-# Noah Schimpf
-
 ## About Me
 
 I am a student at Flinders University, currently completing my Bachelor of Computer Science.
