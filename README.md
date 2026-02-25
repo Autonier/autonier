@@ -1,16 +1,14 @@
-## Hi there 👋
+# Noah Schimpf
 
-<!--
-**Autonier/autonier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a student at Flinders University, currently completing my Bachelor of Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning about software engineering across the full stack. From designing reliable backend systems, modeling clean and scalable databases, and optimizing performance. At the same time, I have a strong interest in frontend development and building intuitive, responsive user interfaces that are enjoyable to use but with a line of ease of functionality.
+
+---
+
+## Contact
+
+Email: 1autonier@proton.me  
+LinkedIn: https://www.linkedin.com/in/noah-ss  
